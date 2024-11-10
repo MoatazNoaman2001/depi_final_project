@@ -14,7 +14,7 @@ This project is a Terraform-based infrastructure setup for a DevOps environment.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/MoatazNoaman2001/depi_final_project.git
+    git clone https://github.com/AyaOmer/Devops-Project.git
     cd Devops-Project
     ```
 
@@ -27,7 +27,7 @@ This project is a Terraform-based infrastructure setup for a DevOps environment.
 3. **Review and modify `terraform.tfvars` to match your requirements:**
 
     ```tfvars
-    project_name = "moataz"
+    project_name = "esmael"
     ami_id       = "ami-0e86e20dae9224db8"
     instance_type = "t2.micro"
     instance_name = "Terraform"
